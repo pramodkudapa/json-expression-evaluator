@@ -1,6 +1,9 @@
 # json-expression-evaluator
 validates an expression against an input json
 
+# prerequisites
+sbt 
+
 # compiling 
 sbt compile
 
